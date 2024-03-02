@@ -1,0 +1,41 @@
+ body{
+    background-color: rgb(181, 145, 145);
+ }
+.container{
+
+    display: flex;
+    justify-content: center;
+}
+.cont{
+    padding: 22px;
+}
+#inp{
+    padding: 12px;
+    border-radius: 1rem;
+    width: 300px;
+    font-size: 22px;
+}
+#btn{
+    font-size: 22px;
+
+    padding: 12px;
+    border-radius: 1rem;
+
+}
+#uoder{
+padding: 12px;
+list-style: none;
+}
+#uoder li{
+    padding: 5px;
+    font-size: 28px;
+    margin-right: 42px;
+}
+li button{
+    margin-left: 72px;
+    padding: 12px;
+    font-size: 17px;
+    border-radius: 12px;
+    background-color: rgb(169, 220, 230);
+
+}
